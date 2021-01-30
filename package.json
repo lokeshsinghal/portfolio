@@ -6,9 +6,18 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "bootstrap": "^4.5.3",
+    "framer-motion": "^3.1.1",
+    "google-maps-react": "^2.0.6",
     "react": "^16.13.1",
+    "react-animate-on-scroll": "^2.1.5",
+    "react-bootstrap": "^1.4.0",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "react-scroll": "^1.8.1",
+    "react-typist": "^2.0.5",
+    "react-typist-loop": "0.0.5",
+    "typewriter-effect": "^2.17.0"
   },
   "scripts": {
     "start": "react-scripts start",
