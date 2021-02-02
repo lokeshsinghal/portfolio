@@ -24,12 +24,6 @@ class Project extends Component{
 			        	<div className="card-text text-white text-center">Movie App</div>
 			        	<a href="https://knowratingbylokesh.netlify.app/#/" target="_blank" className="text-center"><button type="button" className="view-project mt-3 mb-3">View Project</button></a>
 			        </div>
-			        {/* Third Project */}
-			        <div className="card card-width bg mb-3 mt-3 ml-3 mr-3">
-			        	<img className="card-img-top card-img-style" src={project} height="230"/>
-			        	<div className="card-text text-white text-center">Meri Help</div>
-			        	<button type="button" className="view-project mt-3 mb-3">View Project</button>
-			        </div>
 			    	{/* Fourth Project */}
 			        <div className="card card-width bg mb-3 mt-3 ml-3 mr-3">
 			        	<img className="card-img-top card-img-style" src={project} height="230"/>

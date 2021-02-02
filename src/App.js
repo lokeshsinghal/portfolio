@@ -9,6 +9,7 @@ import SkillsComponent from './Components/Skills';
 import WorkExpComponent from './Components/WorkExp';
 import ContactComponent from './Components/Contact';
 import FooterComponent from './Components/Footer';
+import ParticleComponent from './Components/Particle';
 
 function App() {
   return (
