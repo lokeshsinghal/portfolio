@@ -1,35 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1c831a69d48abc2b424c9bc8c0c75c3e",
+    "revision": "c4bd0ed0d8d578f9ccc9021a679301ef",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "3b7f1a07b0a252aaa5a2",
+    "revision": "1acdbf3e312cd1060c87",
     "url": "/portfolio/static/css/2.2a86faee.chunk.css"
   },
   {
-    "revision": "b2f1d5d57e5df99b1007",
-    "url": "/portfolio/static/css/main.53ee7ec1.chunk.css"
+    "revision": "f58eed8d69d0a398552c",
+    "url": "/portfolio/static/css/main.d544ab63.chunk.css"
   },
   {
-    "revision": "3b7f1a07b0a252aaa5a2",
-    "url": "/portfolio/static/js/2.2aa4d15d.chunk.js"
+    "revision": "1acdbf3e312cd1060c87",
+    "url": "/portfolio/static/js/2.917cfb41.chunk.js"
   },
   {
     "revision": "a73511fdd0e79fea52c5f42ad1574633",
-    "url": "/portfolio/static/js/2.2aa4d15d.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.917cfb41.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b2f1d5d57e5df99b1007",
-    "url": "/portfolio/static/js/main.9f5fe61a.chunk.js"
+    "revision": "f58eed8d69d0a398552c",
+    "url": "/portfolio/static/js/main.5d979f6e.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
     "url": "/portfolio/static/js/runtime-main.209c2d7e.js"
-  },
-  {
-    "revision": "9e79e2488519d9dc3a53c44712e1bf24",
-    "url": "/portfolio/static/media/Profile.9e79e248.jpg"
   },
   {
     "revision": "83a17b64e7243d6bd3934e68ecc44e20",
@@ -44,8 +40,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/movie.dc3f80b0.png"
   },
   {
-    "revision": "1c6976b89a63617e76f05399778dec03",
-    "url": "/portfolio/static/media/project.1c6976b8.jpg"
+    "revision": "51af7ed355fe9318d3c30dea85fc371a",
+    "url": "/portfolio/static/media/portfolio.51af7ed3.png"
+  },
+  {
+    "revision": "09531de88f3ddb6a5243dbedb69b4823",
+    "url": "/portfolio/static/media/profile.09531de8.jpg"
   },
   {
     "revision": "4151125bdb6a7dbe62994d12cc01af4d",
