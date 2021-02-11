@@ -14,7 +14,7 @@ function WorkExpComponent() {
   			<h1 className="font-blue heading-border"><span className="border-bottom-white">Work</span > <span className="font-dark border-bottom-light text-white"> Experience</span></h1>
 		  </div>
       <div className="card text-center exp-card mt-3">
-        <div className="card-header"><img src={T2B} width="180" height="100"/></div>
+        <div className="card-header"><img src={T2B} alt="company-icon" width="180" height="100"/></div>
         <div className="card-body">
                 <ScrollAnimation animateIn='bounce'
   initiallyVisible={true}><h4>Associate Software Developer</h4></ScrollAnimation>

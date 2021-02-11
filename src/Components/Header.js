@@ -7,15 +7,13 @@ import Typewriter from 'typewriter-effect';
 
 import './style.css';
 
-import Particle from './Particle.js';
-
 class HeaderComponent extends Component{
 	render(){
 		return(
 			<div>
 			<div className="bg header-top" id="home">
 				<motion.div className="text-center pt-4 pb-3" initial={{opacity:0}} animate={{opacity:1}}>
-					<img src={Profile} width="200" height="200" className="profile-img-border"/>
+					<img src={Profile} alt="profile" width="200" height="200" className="profile-img-border"/>
 				</motion.div>
 				<motion.div className="pb-4"
 					initial={{y: -250}}

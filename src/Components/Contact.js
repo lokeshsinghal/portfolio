@@ -1,5 +1,4 @@
 import React from 'react';
-import T2B from './t2b.png';
 import Phone from './phone.png';
 import Pin from './pin.png';
 import Message from './message.png';
@@ -15,15 +14,15 @@ function ContactComponent() {
 		  </div>
       <div className="text-center mt-3">
         <div className="contact-flex">
-          <img src={Phone} width="50" height="50"/>
+          <img src={Phone} alt="phone" width="50" height="50"/>
           <p className=" ml-2 contact-text"><a href="tel:+918950437091" className="text-white">+91-8950437091</a></p>
         </div>
         <div className="contact-flex">
-          <img src={Message} width="50" height="50"/>
+          <img src={Message} alt="message" width="50" height="50"/>
           <p className="ml-2 contact-text"><a href="mailto:lokeshsinghal98@gmail.com" className="text-white">lokeshsinghal98@gmail.com</a></p>
         </div>
         <div className="contact-flex">
-          <img src={Pin} width="50" height="50"/>
+          <img src={Pin} width="50" height="50" alt="location"/>
           <p className="text-white ml-2 contact-text">Back Side Geeta Bhawan, Charkhi Dadri, Haryana</p>
         </div>
       </div>
