@@ -109,6 +109,7 @@
 
 .about-content-container{
 	margin: auto 300px;
+  line-height: 2.5;
 }
 
 @media only screen and (min-width: 1001px) and (max-width: 1300px) {
@@ -293,7 +294,7 @@ tl-item.active .tl-dot:before {
 }
 
 .bar.javascriptLanguage::before{
-  width: calc(75% - 10px);
+  width: calc(83% - 10px);
 }
 
 .bar.ReactLanguage::before{

@@ -18,7 +18,7 @@ class About extends Component{
 				</ScrollAnimation>
 				<ScrollAnimation animateIn='fadeIn'>
 				<div className="font-dark about-content-container">
-					Hi I'm Lokesh Singal.I am Front End developer and have experience in React Js and JavascriptLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+					Hi I'm Lokesh Singal.I am Front End developer in Thoughts2Binary Consultation and Solutions.I have experience of more than 1 year working as a full time frontend developer.I can describe my personality as approachable, social and assertive.I Love to convert design into code.I prefer to strive for excellence not for perfection.Being the Society head of the technical society of my college I have developed leadership skills and can work with team efficiently and in a customised manner.
 				</div>
 				</ScrollAnimation>
 

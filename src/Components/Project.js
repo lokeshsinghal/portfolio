@@ -3,6 +3,7 @@ import './style.css';
 import project from './project.jpg'
 import todo from './Todo.png'
 import movie from './movie.png'
+import portfolio from './portfolio.png'
 
 class Project extends Component{
 	render(){
@@ -26,7 +27,7 @@ class Project extends Component{
 			        </div>
 			    	{/* Fourth Project */}
 			        <div className="card card-width bg mb-3 mt-3 ml-3 mr-3">
-			        	<img className="card-img-top card-img-style" src={project} height="230"/>
+			        	<img className="card-img-top card-img-style" src={portfolio} height="230"/>
 			        	<div className="card-text text-white text-center">My Portfolio</div>
 			        	<button type="button" className="view-project mt-3 mb-3">View Project</button>
 			        </div>
