@@ -301,6 +301,10 @@ tl-item.active .tl-dot:before {
   width: calc(85% - 10px);
 }
 
+.bar.MaterialUI::before{
+  width: calc(85% - 10px);
+}
+
 @keyframes load{
   from {
     width: 0%

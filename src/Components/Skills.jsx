@@ -8,6 +8,18 @@ function SkillsComponent() {
   		<div className="text-center mt-4 pt-2">
   			<h1 className="font-blue heading-border"><span className="border-bottom-white">Skills</span></h1>
 		  </div>
+      <div>
+          React
+          <div className="bar ReactLanguage"></div>
+        </div>
+      <div>
+          Javascript
+          <div className="bar javascriptLanguage"></div>
+        </div>
+        <div>
+          Material-UI
+          <div className="bar MaterialUI"></div>
+        </div>
       <div className="skill-center">
         <div>
           HTML
@@ -20,14 +32,6 @@ function SkillsComponent() {
         <div>
           Bootstrap
           <div className="bar bootstrapLanguage"></div>
-        </div>
-        <div>
-          Javascript
-          <div className="bar javascriptLanguage"></div>
-        </div>
-        <div>
-          React
-          <div className="bar ReactLanguage"></div>
         </div>
       </div>
             {/*<div className="ml-4 mr-4 skills-card-container">

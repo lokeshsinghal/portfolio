@@ -1,5 +1,5 @@
 import React,{Component} from 'react';
-import Profile from './profile.jpg';
+import Profile from './myProfile.jpeg';
 
 import {motion} from 'framer-motion';
 

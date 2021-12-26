@@ -1,6 +1,6 @@
 import React,{Component} from 'react';
 import './style.css';
-import Resume from './LokeshSingal_Resume.pdf';
+import Resume from './LokeshResume.pdf';
 import ScrollAnimation from 'react-animate-on-scroll';
 
 class About extends Component{
@@ -18,7 +18,7 @@ class About extends Component{
 				</ScrollAnimation>
 				<ScrollAnimation animateIn='fadeIn'>
 				<div className="font-dark about-content-container">
-					Hi I'm Lokesh Singal. I have experience of more than 1 year working as a full time frontend developer in Thoughts2Binary Consultation and Solutions. I can describe my personality as approachable, social and assertive. I Love to convert design into code. I prefer to strive for excellence not for perfection. Being the Society head of the technical society of my college I have developed leadership skills and can work with team efficiently and in a customised manner.
+					Hi I'm Lokesh Singal. I have experience of 2 years working as a full time Frontend Developer. Currently, I am working as a Software Design Engineer-1 in "Newgen Software Technologies Limited, Noida". I can describe my personality as approachable, social and assertive. I Love to convert design into code. I prefer to strive for excellence not for perfection. Being the Society head of the technical society of my college I have developed leadership skills and can work with team efficiently and in a customized manner.
 				</div>
 				</ScrollAnimation>
 

@@ -16,6 +16,14 @@ function EducationComponent() {
             <div className="tl-item active">
                 <div className="tl-dot b-tl" />
                 <div className="tl-content">
+                    <div className="fb-6">MBA (Information Technology) </div>
+                    <div className=" mt-1">Guru Jambheshwar University Directorate of Distance Education, Hisar</div>
+                    <div className="tl-date text-muted mt-1">2021 - Present</div>
+                </div>
+            </div>
+            <div className="tl-item active">
+                <div className="tl-dot b-tl" />
+                <div className="tl-content">
                     <div className="fb-6">Bachelor Of Technology (CSE) </div>
                     <div className=" mt-1">The Technological Institute Of Textile & Sciences, Bhiwani(Haryana)</div>
                     <div className="tl-date text-muted mt-1">2016 - 2020</div>
