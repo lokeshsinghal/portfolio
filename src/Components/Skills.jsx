@@ -8,6 +8,7 @@ function SkillsComponent() {
   		<div className="text-center mt-4 pt-2">
   			<h1 className="font-blue heading-border"><span className="border-bottom-white">Skills</span></h1>
 		  </div>
+      <div className="skill-center">
       <div>
           React
           <div className="bar ReactLanguage"></div>
@@ -20,7 +21,6 @@ function SkillsComponent() {
           Material-UI
           <div className="bar MaterialUI"></div>
         </div>
-      <div className="skill-center">
         <div>
           HTML
           <div className="bar htmlLanguage"></div>
