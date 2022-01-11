@@ -1,6 +1,6 @@
 import React,{Component} from 'react';
 import './style.css';
-import Resume from './LokeshResume.pdf';
+import Resume from './LokeshResumeF.pdf';
 import ScrollAnimation from 'react-animate-on-scroll';
 
 class About extends Component{
